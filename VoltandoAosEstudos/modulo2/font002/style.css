@@ -15,12 +15,17 @@ main{
     width: 900px;
     padding: 10px;
     box-shadow: 5px 5px 5px rgba(134, 163, 134, 0.788);
-
 }
 h1{
     font-family: 'Playwrite US Modern';
+    text-align: center;
+}
+h2{
+    font-family: 'Playwrite US Modern';
+    text-align: center;
 }
 p{
     font-family: 'Edu TAS Beginner';
     font-size: 19px;
+    text-align: justify;
 }
