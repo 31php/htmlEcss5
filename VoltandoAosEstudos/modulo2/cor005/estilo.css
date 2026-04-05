@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+h1, h2{
+    font-family: 'Times New Roman', Times, serif
+}
+p{
+    font: italic lighter 16px sans-serif;
+}
