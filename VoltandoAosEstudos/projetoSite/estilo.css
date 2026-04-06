@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 *{
-    font-family: 'Times New Roman', Times, serif;
+    font:italic normal 16px Arial;
     }
 body{
     background-image: linear-gradient(to right,black,silver,white);
