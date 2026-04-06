@@ -8,6 +8,9 @@ h1{
     color: rgba(11, 104, 104, 0.801);
 
 }
+h1#principal{
+    text-align: center;
+}
 h2{
     color: rgba(67, 131, 131, 0.808);
 }
