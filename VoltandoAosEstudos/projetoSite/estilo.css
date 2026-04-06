@@ -24,4 +24,6 @@ h2{
 }
 p{
     font-style: italic;
+    text-align: justify;
+    text-indent: 30px;
 }
