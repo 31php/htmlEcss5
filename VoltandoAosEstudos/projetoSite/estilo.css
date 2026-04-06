@@ -21,6 +21,7 @@ h1{
     text-shadow: 3px 3px 3px rgba(204, 192, 192, 0.788);
 }
 h2{
+    font-size: 20px;
     text-decoration: underline;
 }
 p{
