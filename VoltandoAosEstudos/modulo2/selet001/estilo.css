@@ -6,15 +6,20 @@ body{
 }
 h1{
     color: #467A3D;
-
 }
 h1#principal{
     color:#34462E;
     text-align: center;
     text-shadow:3px 3px 3px  rgba(67, 131, 131, 0.808);
 }
-h2{
-    color: rgba(67, 131, 131, 0.808);
+h2.basico{
+    
+}
+h2.intermediario{
+
+}
+h2.avancado{
+
 }
 p{
     text-indent: 30px;
