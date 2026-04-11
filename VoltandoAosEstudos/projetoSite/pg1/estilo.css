@@ -29,7 +29,7 @@ p{
     text-align: justify;
     text-indent: 30px;
 }
-ol > li > a:hover{
+ul > li > a:hover{
     color: red;
 
 }
