@@ -1,27 +1,28 @@
 @charset "utf-8";
 
 body{
-    background-color: #75F050;
+    background-color: #E2F7E1;
     font: italic normal 17px Arial;
 }
 h1{
-    color: #467A3D;
+    color: #7FC72D;
 }
 h1#principal{
-    color:#34462E;
+    color:#3B4A39;
     text-align: center;
     text-shadow:3px 3px 3px  rgba(67, 131, 131, 0.808);
 }
 h2.basico{
-    
+    color: #88F000;
 }
 h2.intermediario{
-
+    color:#497140;
 }
 h2.avancado{
-
+    color: #415c32;
 }
 p{
+    color: rgb(126, 125, 125);
     text-indent: 30px;
     text-align: justify;
 }
