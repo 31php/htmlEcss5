@@ -1,15 +1,15 @@
 @charset "utf-8";
 
 body{
-    background-color: rgba(154, 202, 202, 0.822);
+    background-color: #75F050;
     font: italic normal 17px Arial;
 }
 h1{
-    color: rgba(11, 104, 104, 0.801);
+    color: #467A3D;
 
 }
 h1#principal{
-    background-color:rgba(130, 190, 170, 0.849);
+    color:#34462E;
     text-align: center;
     text-shadow:3px 3px 3px  rgba(67, 131, 131, 0.808);
 }
