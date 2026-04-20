@@ -7,7 +7,7 @@ body{
     background-image: linear-gradient(to right,black,silver,white);
 }
 header > nav > a:hover{
-    color: green;
+    color: silver;
 }
 main{
     background-color:rgba(245, 234, 234, 0.863);
@@ -39,7 +39,7 @@ p{
     text-indent: 30px;
 }
 a:visited{
-    color: lightgreen;
+    color: white;
 }
 footer{
     margin-top: 20px; 
