@@ -41,6 +41,19 @@ p{
 a:visited{
     color: white;
 }
+aside{
+    background-color:rgba(245, 234, 234, 0.863);
+    margin: 10px;
+    padding: 10px;
+    width: 600px;
+    border-radius: 5px;    
+}
+aside > h2{
+    text-align: center;
+}
+aside > p{
+    text-align: justify;
+}
 footer{
     margin-top: 20px; 
 }
