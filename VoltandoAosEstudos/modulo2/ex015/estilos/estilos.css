@@ -41,6 +41,7 @@ header > h1{
     color: white;
     color: var(--cor3);
     font-family: var(--font-destaque);
+    font-size: 3em;
     margin-bottom: 20px;
 }
 
@@ -48,6 +49,8 @@ header > p{
     color: white;
     font-family: var(--font-padrao);
     font-size: 1.2em;
+    max-width: 500px;
+    margin: auto;
 }
 
 nav{
